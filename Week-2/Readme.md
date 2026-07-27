@@ -142,7 +142,7 @@ This project strengthened my ability to:
 
 - Microsoft Excel
 
-## Author
+## Created By
 
 **Chidiebere Lilian Ebulue**
 
