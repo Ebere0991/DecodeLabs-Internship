@@ -179,15 +179,19 @@ This folder contains:
 
 ### Query Screenshot 1
 
-![SQL Query 1](SQL_Query_1.png)
+![SQL Query 1](01_SQL_Query.png)
 
 ### Query Screenshot 2
 
-![SQL Query 2](SQL_Query_2.png)
+![SQL Query 2](02_SQL_Query.png)
 
 ### Query Screenshot 3
 
-![SQL Query 3](SQL_Query_3.png)
+![SQL Query 3](03_SQL_Query.png)
+
+### Query Screenshot 4
+
+![SQL Query 4](04_SQL_Query.png)
 
 # Tools Used
 
