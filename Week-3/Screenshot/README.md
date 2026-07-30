@@ -32,5 +32,3 @@ The complete SQL script is available in the parent folder.
 **Chidiebere Lilian Ebulue**
 
 DecodeLabs Data Analytics Internship
-
-Week 3 – SQL Project
