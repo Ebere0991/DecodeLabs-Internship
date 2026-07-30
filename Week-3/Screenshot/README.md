@@ -27,7 +27,7 @@ The complete SQL script is available in the parent folder.
 - Microsoft SQL Server Management Studio (SSMS)
 - SQL Server
 
-##Created By
+## Created By
 
 **Chidiebere Lilian Ebulue**
 
